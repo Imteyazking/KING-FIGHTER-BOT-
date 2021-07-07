@@ -1,5 +1,5 @@
 {
-  "name": "𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝",
+  "name": "𝙺𝚒𝚗𝚐 Fighter 𝚄𝚜𝚎𝚛𝚋𝚘𝚝",
   "description": "The best userbot made by @Imteyaz_king. Made with Love... ❤ For Support Join @KingUserBot_Support ",
   "logo": "https://telegra.ph/file/cc41bf154b1481f859b97.jpg",
     "keywords": [
@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Imteyazking01/King_UserBot/",
-  "website": "https://github.com/Imteyazking01/King_UserBot/",
+  "repository": "https://github.com/Imteyazking/KING-FIGHTER-BOT-/",
+  "website": "https://github.com/Imteyazking/KING-FIGHTER-BOT-/",
   "success_url": "https://t.me/KingUserBot_Support",
   "env": {
     "ENV": {
@@ -23,13 +23,13 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is 𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 User",
+      "description": "Fill your Full name. By default it is 𝙺𝚒𝚗𝚐  fighter 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 User",
       "value": "King User",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Command.",
-      "value": "🎃 𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛Bot Is Alive 🎃",
+      "value": "🎃 𝙺𝚒𝚗𝚐 Fighter 𝚄𝚜𝚎𝚛Bot Is Alive 🎃",
       "required": false
     },
     "ALIVE_PIC": {
