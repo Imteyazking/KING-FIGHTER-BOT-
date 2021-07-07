@@ -14,7 +14,7 @@ from ULTRAX import PHOTO
 from ULTRA.utils import admin_cmd, sudo_cmd
 from platform import uname
 
-DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ"
+DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "King Bot"
 
 
 #@command(pattern="^.help ?(.*)")
@@ -57,7 +57,7 @@ async def cmd_list(event):
 
                         allow_cache=False,
 
-                        caption="¢σммαη∂ѕ ιη υℓтяα χ вσт",
+                        caption="¢σммαη∂ѕ ιη King вσт",
 
                         reply_to=reply_to_id
 
@@ -89,7 +89,7 @@ async def cmd_list(event):
 
         else:
 
-            help_string = f""" υℓтяα χ вσт Hᴇʟᴘ ᴘʀᴏᴠɪᴅᴇᴅ ʙʏ тєαм υℓтяα χ\n
+            help_string = f""" King вσт Hᴇʟᴘ ᴘʀᴏᴠɪᴅᴇᴅ ʙʏ тєαм King χ\n
 
 Dᴏ `.help` PLUGIN_NAME ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs, ɪғ ɪɴ ᴄᴀsᴇ Pᴏᴘ-Uᴘ ᴅᴏᴇsɴ'ᴛ ᴀᴘᴘᴇᴀʀ."""
 
@@ -145,7 +145,7 @@ async def _(event):
 
     logger.info(result)  # pylint:disable=E0602
 
-    await event.edit("тєℓєтнση  вαѕє∂ υѕєявσт ρσωєяє∂ ву υℓтяα χ вσт")
+    await event.edit("тєℓєтнση  вαѕє∂ υѕєявσт ρσωєяє∂ ву King вσт")
 
 
 
@@ -167,7 +167,7 @@ async def _(event):
 
         help_string = CMD_LIST[plugin_name].doc
 
-        unload_string = f"Usᴇ `.unload` {plugin_name} ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛʜɪs Pʟᴜɢɪɴ.\n           Â© υℓтяα χ"
+        unload_string = f"Usᴇ `.unload` {plugin_name} ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴛʜɪs Pʟᴜɢɪɴ.\n           Â© King"
 
         
 
