@@ -21,7 +21,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 ## Dᴇᴘʟᴏʏ:-
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU&template=https%3A%2F%2Fgithub.com%2FULTRA-OP%2FHEROKU)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Imteyazking/KING-FIGHTER-BOT-HEROKU&template=https://github.com/Imteyazking/KING-FIGHTER-BOT-FHEROKU)
 
 ------------------------------------------------
 
@@ -54,7 +54,7 @@ Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%9
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/ULTRA-OP/ULTRA-X
+git clone https://github.com/Imteyazking/KING-FIGHTER-BOT-
 cd ULTRA
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
