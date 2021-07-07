@@ -2,7 +2,7 @@ import asyncio
 import io
 import os
 import re
-from ULTRAX import PHOTO, ID as id
+from King import PHOTO, ID as id
 from telethon import Button, custom, events, functions
 import telethon
 from telethon.tl.functions.users import GetFullUserRequest
@@ -63,8 +63,8 @@ async def start(event):
             caption=starttext,
             link_preview=False,
             buttons=[
-                [custom.Button.url("Dᴇᴘʟᴏʏ Yᴏᴜʀ Oᴡɴ UʟᴛʀᴀX", "http://GitHub.com/ULTRA-OP/ULTRA-X")],
-                [Button.url("Sᴜᴘᴘᴏʀᴛ", "t.me/UltraXchaT")],
+                [custom.Button.url("Dᴇᴘʟᴏʏ Yᴏᴜʀ Oᴡɴ King", "https://github.com/Imteyazking/KING-FIGHTER-BOT-")],
+                [Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/King_fighter_Bot_support")],
             ],
         )
         if os.path.exists(mypic):
