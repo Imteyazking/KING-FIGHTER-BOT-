@@ -9,7 +9,7 @@
 
 
 # KING FIGHTER BOT
-This is a KING FIGHTER made for telegram. I made this King with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+This is a KING FIGHTER made for telegram. I made this King with help of all other Kings available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official King fighter вσт made by [ Team KING](http://t.me/KiNG_Fighter_Bot) 
 
@@ -47,7 +47,7 @@ Also join [support channel and group](https://github.com/Imteyazking/KING-FIGHTE
 ### Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
 
 ## Oғғɪᴄɪᴀʟ Sᴜᴘᴘᴏʀᴛ
-<a href="https://telegram.me/King_fighter_Not_support"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Kingfighterbot"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://telegram.me/King_fighter_Bot_support"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 ## Tʜᴇ Nᴏʀᴍᴀʟ Wᴀʏ
