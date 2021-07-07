@@ -1,7 +1,7 @@
 {
   "name": "𝙺𝚒𝚗𝚐 Fighter 𝚄𝚜𝚎𝚛𝚋𝚘𝚝",
   "description": "The best userbot made by @Imteyaz_king. Made with Love... ❤ For Support Join @KingUserBot_Support ",
-  "logo": "https://telegra.ph/file/cc41bf154b1481f859b97.jpg",
+  "logo": "https://telegra.ph/file/daa4fc921b3ded90831c8.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -34,17 +34,17 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive command.",
-      "value": "https://telegra.ph/file/cc41bf154b1481f859b97.jpg",
+      "value": "https://telegra.ph/file/12804c33fba19ddd69d1c.mp4",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "POWERFUL PEOPLE COMES FROM POWERFUL PLACES !! 𝙺𝚒𝚗𝚐 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ✨",
+      "value": "POWERFUL PEOPLE COMES FROM POWERFUL PLACES !! 𝙺𝚒𝚗𝚐 Fighter 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 ✨",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/bd6656feaae9d1a07cf46.jpg",
+      "value": "https://telegra.ph/file/7002e0666d37642a189dd.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
