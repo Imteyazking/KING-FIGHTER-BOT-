@@ -1,4 +1,4 @@
-# Copyright (C) 2021 By Team UltraX 
+# Copyright (C) 2021 By Team Kingbot
 
 # ~ LegendX
 # ~ ProBoyX
@@ -46,7 +46,7 @@ Mʏ Mᴀsᴛᴇʀ ʜᴀs ᴀssɪɢɴᴇᴅ ᴍᴇ ᴛʜᴇ ᴅᴜᴛʏ ᴛᴏ �
 
 ULTRA_BOT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if ULTRA_BOT_PIC is None:
-    ULTRA_PIC = "https://telegra.ph/file/91d427a6873d44ca21c78.jpg"
+    ULTRA_PIC = "https://telegra.ph/file/cc41bf154b1481f859b97.jpg"
 else:
     ULTRA_PIC = ULTRA_BOT_PIC
 
