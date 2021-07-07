@@ -9,7 +9,7 @@
 
 
 # KING FIGHTER BOT
-This is a KING FIGHTER made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+This is a KING FIGHTER made for telegram. I made this King with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
 
 This is the one and only official King fighter вσт made by [ Team KING](http://t.me/KiNG_Fighter_Bot) 
 
